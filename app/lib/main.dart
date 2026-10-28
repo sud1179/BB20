@@ -8,7 +8,7 @@ const dataUrl =
 void main() => runApp(const App());
 
 class App extends StatelessWidget {
-  const App({super.key});
+  const App({super.key});            //test
   @override
   Widget build(BuildContext c) => MaterialApp(
         title: 'Big Boss Popularity',
